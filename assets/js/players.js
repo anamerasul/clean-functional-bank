@@ -56,7 +56,8 @@ for(const player of players){
                 }
 
                 else{
-                        event.target.parentNode.style.backgroundColor='white';   
+                        event.target.parentNode.style.backgroundColor='white';
+                        
                 }
                 
                
